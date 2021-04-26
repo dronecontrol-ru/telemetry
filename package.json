@@ -1,0 +1,26 @@
+{
+  "name": "droncontrol-tech-telemetry",
+  "version": "0.0.1",
+  "description": "FPV telemetry viewer",
+  "main": "./src/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dronecontrol-tech/telemetry.git"
+  },
+  "keywords": [
+    "FPV",
+    "telemetry"
+  ],
+  "author": "Roman Sorokin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dronecontrol-tech/telemetry/issues"
+  },
+  "homepage": "https://github.com/dronecontrol-tech/telemetry#readme"
+}
